@@ -1,0 +1,1 @@
+Save this code in a Python file (e.g., diary.py) and run it. This code allows you to create diary entries, view all entries, search for entries containing specific keywords, and exit the diary application. Diary entries are stored in a file called diary.txt
